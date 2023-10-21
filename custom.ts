@@ -4,7 +4,8 @@
 //% weight=100 color=#0fbc11 icon=""
 namespace customblinker {
     /**
-     *x=x coordinate
+     *this is a test extension
+     * x=x coordinate
      y=ycoordinate
      inerval=flash interval
      */
